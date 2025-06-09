@@ -18,23 +18,3 @@ Hello there, i'm cubanYisus21 just a passionate developer at your service.
 
 | <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/cubanYisus21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cubanYisus21&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/cubanYisus21/cubanYisus21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cubanYisus21&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/cubanYisus21">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/cubanYisus21/cubanYisus21/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/cubanYisus21">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/cubanYisus21/cubanYisus21/master/assets/codesandbox.svg" />
-</a>
