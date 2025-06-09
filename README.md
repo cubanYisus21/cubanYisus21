@@ -6,10 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubanYisus21&label=Profile%20views&color=0e75b6&style=flat" alt="cubanYisus21" /> </p>
 <br />
 
-I am a Computer Science Engineer graduated from [University of Computer Sciences](https://www.uci.cu/)
-A Passionate Developer always looking for a better way to solve any problem or challenge, with strong knowledge of JavaScriptith, Nodejs, MongoDB, React etc.
+📔 I am a Computer Science Engineer graduated from [University of Computer Sciences(UCI)](https://www.uci.cu/)
 
-Feel free to contact with me in @cubanYisus21, just to say hello!.
+💻 A Passionate Developer always looking for a better way to solve any problem or challenge, with strong knowledge of JavaScriptith, Nodejs, MongoDB, React etc.
+
+💬 Feel free to contact with me in @cubanYisus21, just to say hello!.
 
 ### Languages and Tools:
 
@@ -26,6 +27,7 @@ Feel free to contact with me in @cubanYisus21, just to say hello!.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cubanYisus21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubanYisus21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
