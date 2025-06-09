@@ -5,7 +5,7 @@ Hello there, i'm cubanyisus21 just a passionate developer at your service.
 
 **About me**
 
-- 📔 Computer Science Engineer at [UCI](https://www.uci.cu/)
+- 📔 Graduate of computer science engineering from [UCI](https://www.uci.cu/)
 
 - 💬 Ask me about anything [here](https://github.com/cubanYisus21/cubanYisus21/issues)
 
