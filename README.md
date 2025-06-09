@@ -4,12 +4,9 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubanYisus21&label=Profile%20views&color=0e75b6&style=flat" alt="cubanYisus21" /> </p>
-<br />
 
-📔 I am a Computer Science Engineer graduated from [University of Computer Sciences(UCI)](https://www.uci.cu/)
-
+📔 I'm Jesus, a pleasure to meet you. I'm a Computer Science Engineer graduated from [University of Computer Sciences(UCI)](https://www.uci.cu/)
 💻 A Passionate Developer always looking for a better way to solve any problem or challenge, with strong knowledge of JavaScriptith, Nodejs, MongoDB, React etc.
-
 💬 Feel free to contact with me in @cubanYisus21, just to say hello!.
 
 ### Languages and Tools:
