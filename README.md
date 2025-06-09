@@ -27,7 +27,7 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cubanYisus21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubanYisus21&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cubanYisus21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yisus github stats" /></a> | <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubanYisus21&layout=compact&theme=buefy&hide_border=true" /></a>
 </details>
 
 <details>
