@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubanYisus21&label=Profile%20views&color=0e75b6&style=flat" alt="cubanYisus21" /> </p>
-I am a Computer Science Engineer graduated from University of Computer Sciences(UCI) 
+I am a Computer Science Engineer graduated from [University of Computer Sciences(UCI)](https://www.uci.cu/)
 A Passionate Developer always looking for a better way to solve any problem or challenge, with strong knowledge of JavaScriptith, Nodejs, MongoDB, React etc.
 
 Feel free to contact with me in @cubanYisus21, just to say hello!.
@@ -30,16 +30,7 @@ Feel free to contact with me in @cubanYisus21, just to say hello!.
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cubanYisus21&hide_border=true" />
+  <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cubanYisus21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yisus github stats" /></a> | <a href="https://github.com/cubanYisus21/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubanYisus21&layout=compact&theme=buefy&hide_border=true" /></a>
 </details>
 
-
 #
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
