@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubanYisus21&label=Profile%20views&color=0e75b6&style=flat" alt="cubanYisus21" /> </p>
 
 👋I'm Jesus, a pleasure to meet you. Just a passionate developer like you, always looking for a better way to solve any challenge.
-📔Graduated as a computer science engineer from the [University of Computer Sciences(UCI)](https://www.uci.cu/)
+📔Graduated as a computer science engineer from the [University of Computer Sciences(UCI)](https://www.uci.cu/) since 2024.
 
 💬 Feel free to contact with me in @cubanYisus21, just to say hello!.
 
